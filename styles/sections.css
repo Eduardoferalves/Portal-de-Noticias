@@ -3,7 +3,7 @@
     height: 100%;
     object-fit: cover;
 }
-}
+
 
     .card {
         border-radius: 4px;
@@ -21,4 +21,17 @@
                 #020617 100%
                 );
         }
+
+        figcaption{
+            position: absolute;
+            bottom: 0;
+            
+            padding: 24x;
+
+            h2 {
+                margin-top: 8px;
+            }
+        }
     }
+    
+}
